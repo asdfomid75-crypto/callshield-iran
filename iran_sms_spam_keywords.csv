@@ -1,0 +1,64 @@
+keyword,category,false_positive_risk
+برنده شدید,prize,low
+برنده جایزه,prize,low
+جایزه نقدی,prize,low
+قرعه کشی,prize,medium
+هدیه رایگان,prize,medium
+شارژ رایگان,prize,low
+اینترنت رایگان,prize,low
+وام بدون ضامن,loan,low
+وام فوری,loan,low
+وام قرض الحسنه,loan,medium
+اعتبار فوری,loan,low
+کارت اعتباری,loan,medium
+سود تضمینی,investment,low
+سرمایه گذاری مطمئن,investment,low
+کسب درآمد,investment,medium
+درآمد میلیونی,investment,low
+ارز دیجیتال,investment,medium
+سیگنال رایگان,investment,low
+شرط بندی,gambling,low
+سایت شرط بندی,gambling,low
+کازینو,gambling,low
+ضریب انفجار,gambling,low
+بازی انفجار,gambling,low
+پیش بینی فوتبال,gambling,medium
+بونوس ثبت نام,gambling,low
+حساب شما مسدود,phishing,low
+حساب شما مسدود شد,phishing,low
+کارت شما مسدود,phishing,low
+برای رفع مسدودی,phishing,low
+احراز هویت,phishing,high
+تایید هویت فوری,phishing,low
+رمز دوم پویا,phishing,medium
+بسته پستی شما,phishing,low
+بسته شما در انتظار,phishing,low
+مرسوله شما,phishing,medium
+لینک زیر,phishing,high
+روی لینک کلیک,phishing,low
+برای ثبت نام کلیک,phishing,low
+یارانه شما,phishing,medium
+ثبت نام یارانه,phishing,low
+سهام عدالت,phishing,medium
+مالیات بر ارزش افزوده,phishing,medium
+جریمه رانندگی,phishing,medium
+پرداخت جریمه,phishing,medium
+استعلام بدهی,phishing,medium
+تخفیف ویژه,ads,high
+حراج ویژه,ads,medium
+تخفیف تا ۷۰ درصد,ads,low
+فروش ویژه,ads,high
+ارسال رایگان,ads,medium
+لغو۱۱,ads,low
+لغو 11,ads,low
+برای لغو ارسال,ads,low
+عضویت در کانال,ads,medium
+کانال تلگرام,ads,high
+جوین شوید,ads,low
+دوره آموزشی,ads,high
+ثبت نام دوره,ads,high
+فروش لایک و فالو,ads,low
+افزایش فالوور,ads,low
+دعوت به همکاری,ads,medium
+استخدام فوری,ads,medium
+کار در منزل,ads,low
